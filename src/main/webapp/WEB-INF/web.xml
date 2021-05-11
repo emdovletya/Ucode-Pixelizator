@@ -1,0 +1,14 @@
+<!DOCTYPE web-app PUBLIC
+ "-//Sun Microsystems, Inc.//DTD Web Application 2.3//EN"
+ "http://java.sun.com/dtd/web-app_2_3.dtd" >
+
+<web-app>
+    <context-param>
+        <param-name>upload.location</param-name>
+        <param-value>/usr/local/Cellar/tomcat@9/9.0.45/libexec/webapps/pxlztr_war/images</param-value>
+    </context-param>
+    <context-param>
+        <param-name>pixelated.location</param-name>
+        <param-value>/usr/local/Cellar/tomcat@9/9.0.45/libexec/webapps/pxlztr_war/images/pixelated</param-value>
+    </context-param>
+</web-app>
